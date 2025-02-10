@@ -1,3 +1,18 @@
+Hola! 🙋🏻‍♀️
+Soy Cayetana, estudiante de último curso del grado en Desarrollo de Aplicaciones Web en Madrid.
+
+Si tuviera que definirme en tres palabras, serían:
+responsable, proactiva y apasionada.
+¿Por qué estas tres? Responsable, porque cuando
+asumo un compromiso, doy lo mejor de mí y actúo de
+manera consciente para cumplirlo de forma eficaz.
+Proactiva, ya que siempre estoy dispuesta a colaborar,
+aportando ideas y soluciones. Además, soy apasionada,
+porque disfruto cada reto, me involucro con
+entusiasmo en mis tareas y me esfuerzo
+constantemente por mejorar.
+
+Mi experiencia laboral me ha enseñado a valorar el trabajo en equipo, ya que, como en programación funcional, divide y vencerás. 💪🏼
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cayetana-isabel-rosado-grijalba-a00853345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
